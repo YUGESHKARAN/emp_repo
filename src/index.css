@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark-blue{
+    color:rgb(200, 118, 5);
+   
+}
+
+.stgp{
+    font-size: 7px;
+    color: #06061b;
+}
+
+.btnbg{
+    background-color: #723d87e3;
+}
